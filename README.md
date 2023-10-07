@@ -1,10 +1,12 @@
 # Tasca M3 T02
 
+Exercicis amb Dataframes.
+
 ### Exercici 1
 ***
 Descarrega el data set Airlines Delay: Airline on-time statistics and delay causes i carrega’l a un Pandas Dataframe. Explora les dades que conté, explica breument quines variables hi ha i queda’t únicament amb les columnes que consideris rellevants. Justifica la teva elecció.
 
--> [Airline on-time statistics and delay causes](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses)
+[Airline on-time statistics and delay causes](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses)
 - Important: Redueix la dimensió del dataset de manera aleatòria per tal d'obtenir un dataset de només 200.000 registres. Tots els exercicis s'han de fer amb aquest dataset reduït.
 
 ### Exercici 2
